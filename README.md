@@ -1,11 +1,6 @@
 <!-- Animated 3D Header with Custom Badges and Tech Elements -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12&section=header&text=Vicky&fontColor=ffffff&fontSize=90&animation=fadeIn&strokeWidth=2&fontAlignY=38&desc=Next.js%20Developer%20|%20Web3%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
 
-<!-- Tech Meme Animation Instead of Standard GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350" alt="Programming Meme" />
-</p>
-
 <!-- Dynamic Stats SVG -->
 <p align="center">
   <a href="#">
@@ -20,13 +15,13 @@
 <!-- Upgraded Animated Typing Widget with Tech Style -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2000&pause=500&center=true&vCenter=true&multiline=true&random=false&width=800&height=120&lines=console.log(%22Hello+World%22);npm+run+build+--next.js;import+React+from+'react'" alt="Typing SVG" />
+   
   </a>
 </p>
 
-<!-- Added Funny Developer Life Meme Animation -->
+<!-- Classic "Works on My Machine" Meme -->
 <div align="center">
-  <img src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif" width="100%" alt="Coding Life Reality">
+  <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif" width="100%">
 </div>
 
 <!-- About Me Section with Tech Meme Animation -->
@@ -40,7 +35,7 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" width="100%">
+        <img src="https://media.giphy.com/media/kyLYXonQYYfwYDIeWk/giphy.gif" width="100%">
       </td>
       <td width="50%">
         <h3 align="center">Next.js Developer & Web Innovator</h3>
@@ -58,7 +53,7 @@
   </table>
 </div>
 
-<!-- Animated Journey Timeline with Tech Memes -->
+<!-- Animated Journey Timeline with Balanced Tech & Memes -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="42"> 
   My Developer Journey
@@ -69,13 +64,10 @@
   <img src="https://i.imgur.com/waxVImv.png" width="100%">
 </div>
 
-<!-- New Developer Humor Meme -->
+<!-- Balanced Next.js Journey Timeline with famous memes and tech animations -->
 <div align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="100%">
-</div>
-
-<!-- Animated Next.js Journey Timeline with Tech Memes -->
-<div align="center">
+  <!-- "It works on my machine" classic developer meme -->
+  <img src="https://media.giphy.com/media/XbxZ41fWLeRECPsGIJ/giphy.gif" width="100%">
   <table>
     <tr>
       <td align="center">
@@ -85,7 +77,8 @@
         <br>
         React Developer
         <br>
-        <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="80">
+        <!-- "Hello World" animation -->
+        <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="80">
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/nextjs.png" width="60px">
@@ -94,7 +87,8 @@
         <br>
         Next.js Explorer
         <br>
-        <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="80">
+        <!-- Classic "It's Working" meme -->
+        <img src="https://media.giphy.com/media/5wWf7GMbT1ZUGTDdTqM/giphy.gif" width="80">
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/typescript.png" width="60px">
@@ -103,7 +97,8 @@
         <br>
         TypeScript Integration
         <br>
-        <img src="https://media.giphy.com/media/iFkHQLzYA09Zm/giphy.gif" width="80">
+        <!-- Tech animation for code -->
+        <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80">
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/blockchain.png" width="60px">
@@ -112,7 +107,8 @@
         <br>
         Web3 Integration
         <br>
-        <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="80">
+        <!-- Blockchain animation -->
+        <img src="https://media.giphy.com/media/HVNvHYTrMaDBGzXXG3/giphy.gif" width="80">
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/nextjs.png" width="60px">
@@ -121,7 +117,8 @@
         <br>
         Next.js App Router
         <br>
-        <img src="https://media.giphy.com/media/l0HlMr2G3EKFgpUY0/giphy.gif" width="80">
+        <!-- Famous "This is fine" meme -->
+        <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="80">
       </td>
       <td align="center">
         <img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/58/000000/external-rocket-space-vitaliy-gorbachev-flat-vitaly-gorbachev.png" width="60px">
@@ -130,7 +127,8 @@
         <br>
         Next.js Innovation Lead
         <br>
-        <img src="https://media.giphy.com/media/RrVzUOXldFe8M/giphy.gif" width="80">
+        <!-- Space/rocket tech animation -->
+        <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="80">
       </td>
     </tr>
   </table>
@@ -146,7 +144,6 @@
   <span style="color:#9370DB"> Technologies & Tools </span>
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42">
 </h2>
-
 <div align="center">
   <!-- Tech Meme Mascot -->
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="180" alt="Tech Meme">
@@ -191,9 +188,9 @@
   </p>
 </div>
 
-<!-- New Funny Developer Life Meme -->
+<!-- Classic "Infinite Loop" Meme -->
 <div align="center">
-  <img src="https://media.giphy.com/media/iGpHt2H22k1orjgT9b/giphy.gif" width="100%" alt="Developer Debugging Life">
+  <img src="https://media.giphy.com/media/12bVDtXPOzYwda/giphy.gif" width="100%">
 </div>
 
 <!-- Premium 3D Stats Section with Tech Meme Decoration -->
@@ -219,16 +216,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vicky166&theme=radical&border=7F3FBF&background=0D1117&stroke=7F3FBF&ring=D238CD&fire=D238CD&currStreakNum=D238CD&sideNums=D238CD&currStreakLabel=D238CD&sideLabels=D238CD&dates=D238CD" alt="Vicky's GitHub Streak" width="60%" />
 </p>
 
-<!-- New Developer Humor Animation -->
+<!-- Classic "Matrix" Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="100%" alt="Developer Expectation vs Reality" />
+  <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="100%" />
 </p>
 
 <!-- Tech Meme Character -->
 <p align="center">
   <img src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" width="180" alt="Tech Character">
 </p>
-
 <!-- Interactive Next.js Skills Chart -->
 <h3 align="center">🌟 Next.js Expertise</h3>
 <div align="center">
@@ -331,104 +327,4 @@
 </h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l3mZm3Nh6A4lZkr84/giphy.gif" width="180" alt="Projects">
-</div>
-
-<!-- New Programming Humor Meme -->
-<div align="center">
-  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="100%" alt="Programming Reality">
-</div>
-
-<!-- Enhanced 3D Project Cards with Tech Memes -->
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/vicky166">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicky166&repo=nextjs-dashboard&theme=radical&hide_border=true&title_color=D238CD&icon_color=D238CD&text_color=FFFFFF&bg_color=0D1117" width="100%" />
-          <h3 align="center">🚀 Next.js 14 Dashboard</h3>
-          <p align="center">
-            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-            <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-          </p>
-          <p align="center">
-            <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="80" alt="Coding">
-          </p>
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/vicky166">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicky166&repo=web3-nextjs-app&theme=radical&hide_border=true&title_color=D238CD&icon_color=D238CD&text_color=FFFFFF&bg_color=0D1117" width="100%" />
-          <h3 align="center">🎨 Web3 Next.js Integration</h3>
-          <p align="center">
-            <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-          </p>
-          <p align="center">
-            <img src="https://media.giphy.com/media/YWUpVw86AtIbe/giphy.gif" width="80" alt="Web3">
-          </p>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/vicky166">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicky166&repo=next-ecommerce&theme=radical&hide_border=true&title_color=D238CD&icon_color=D238CD&text_color=FFFFFF&bg_color=0D1117" width="100%" />
-          <h3 align="center">🛒 E-Commerce Platform</h3>
-          <p align="center">
-            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-          </p>
-          <p align="center">
-            <img src="https://media.giphy.com/media/9rtpH3SAPavoGVldsW/giphy.gif" width="80" alt="Shopping">
-          </p>
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/vicky166">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicky166&repo=nextjs-portfolio&theme=radical&hide_border=true&title_color=D238CD&icon_color=D238CD&text_color=FFFFFF&bg_color=0D1117" width="100%" />
-          <h3 align="center">🌟 Portfolio Template</h3>
-          <p align="center">
-            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-            <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-          </p>
-          <p align="center">
-            <img src="https://media.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.gif" width="80" alt="Portfolio">
-          </p>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <a href="https://github.com/vicky166?tab=repositories">
-    <img src="https://custom-icon-badges.herokuapp.com/badge/-View%20All%20Repositories-181717?style=for-the-badge&logo=repo&logoColor=white" alt="All Repositories" />
-  </a>
-</div>
-
-<!-- Connect Section with Classic Tech Memes -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif" width="42">
-  <span style="color:#9370DB"> Connect & Collaborate </span>
-  <img src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif" width="42">
-</h2>
-
-<!-- Classic "Social Media" Animation -->
-<div align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="180" alt="Connect">
-</div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jhamit-kumar-2b8860315/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" alt="LinkedIn" height="30"/>
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2" alt="Twitter" height="30"/>
-  </a>
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&color=5865F2" alt="Discord" height="30"/>
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" alt="Email" height="30"/>
-  </a>
+  <img src="https://media.giphy.com/media/l3m
