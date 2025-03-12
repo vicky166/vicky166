@@ -3,7 +3,7 @@
 
 <!-- Tech Meme Animation Instead of Standard GIF -->
 <p align="center">
-<img src="https://media.giphy.com/media/KD8Ldwzx90X9hi9QHW/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="42">
 
 </p>
 
@@ -32,8 +32,7 @@
 <h2 align="center">
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="42">
   <span style="color:#9370DB"> About Me </span>
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="42">
-</h2>
+<img src="https://media.giphy.com/media/l41lZccR1oUigYeNa/giphy.gif" width="300"></h2>
 
 <div align="center">
   <table>
