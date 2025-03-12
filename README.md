@@ -1,5 +1,10 @@
-<!-- Animated 3D Header with Custom Badges -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12&section=header&text=Vicky&fontColor=ffffff&fontSize=90&animation=fadeIn&strokeWidth=2&fontAlignY=38&desc=Next.js%20Developer%20|%20Web3%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
+<!-- Animated 3D Header with Custom Badges and Anime Elements -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12&section=header&text=Vicky&fontColor=ffffff&fontSize=90&animation=fadeIn&strokeWidth=2&fontAlignY=38&desc=Next.js%20Developer%20|%20Web3%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
+
+<!-- Anime Character Decoration -->
+<p align="center">
+  <img src="https://i.imgur.com/1ZvVkDo.gif" width="120" alt="Anime Developer" />
+</p>
 
 <!-- Dynamic Stats SVG -->
 <p align="center">
@@ -12,30 +17,30 @@
   <img src="https://komarev.com/ghpvc/?username=vicky166&style=for-the-badge&color=6e5494" alt="Profile views" />
 </p>
 
-<!-- Premium Animated Typing Widget -->
+<!-- Premium Animated Typing Widget with Anime Style -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=800&height=120&lines=Building+Modern+Web+Experiences;Next.js+Expert+%26+Frontend+Architect;Crafting+the+Future+of+Web+Development" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Dynamic Next.js Animation Instead of GitHub Snake -->
+<!-- Anime-style Coding Animation -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%">
+  <img src="https://i.imgur.com/cKOlTrM.gif" width="100%">
 </div>
 
-<!-- About Me Section with 3D Holographic Animation -->
+<!-- About Me Section with Anime-themed Holographic Animation -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42">
+  <img src="https://i.imgur.com/ozEwbHs.gif" width="42">
   <span style="color:#9370DB"> About Me </span>
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42">
+  <img src="https://i.imgur.com/ozEwbHs.gif" width="42">
 </h2>
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100%">
+        <img src="https://i.imgur.com/MdwMTkJ.gif" width="100%">
       </td>
       <td width="50%">
         <h3 align="center">Next.js Developer & Web Innovator</h3>
@@ -53,20 +58,21 @@
   </table>
 </div>
 
-<!-- Animated Journey Timeline -->
+<!-- Animated Journey Timeline with Anime Characters -->
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> 
+  <img src="https://i.imgur.com/4SdB4Ib.gif" width="42"> 
   My Developer Journey
+  <img src="https://i.imgur.com/4SdB4Ib.gif" width="42">
 </h2>
 
 <div align="center">
   <img src="https://i.imgur.com/waxVImv.png" width="100%">
 </div>
 
-<!-- Animated Next.js Journey Timeline -->
+<!-- Animated Next.js Journey Timeline with Anime Style -->
 <div align="center">
-  <!-- Reactive Code Animation -->
-  <img src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-36ff0319146c.gif" width="100%">
+  <!-- Anime-style Code Animation -->
+  <img src="https://i.imgur.com/HkhJS6W.gif" width="100%">
   <table>
     <tr>
       <td align="center">
@@ -75,6 +81,8 @@
         <b>2019</b>
         <br>
         React Developer
+        <br>
+        <img src="https://i.imgur.com/NWCfOTi.gif" width="80">
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/nextjs.png" width="60px">
@@ -82,6 +90,8 @@
         <b>2020</b>
         <br>
         Next.js Explorer
+        <br>
+        <img src="https://i.imgur.com/Uv2QoUz.gif" width="80">
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/typescript.png" width="60px">
@@ -89,6 +99,8 @@
         <b>2021</b>
         <br>
         TypeScript Integration
+        <br>
+        <img src="https://i.imgur.com/N98xhWE.gif" width="80">
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/blockchain.png" width="60px">
@@ -96,6 +108,8 @@
         <b>2022</b>
         <br>
         Web3 Integration
+        <br>
+        <img src="https://i.imgur.com/TN2nIhZ.gif" width="80">
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/nextjs.png" width="60px">
@@ -103,6 +117,8 @@
         <b>2023</b>
         <br>
         Next.js App Router
+        <br>
+        <img src="https://i.imgur.com/l2WBD3b.gif" width="80">
       </td>
       <td align="center">
         <img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/58/000000/external-rocket-space-vitaliy-gorbachev-flat-vitaly-gorbachev.png" width="60px">
@@ -110,6 +126,8 @@
         <b>2024</b>
         <br>
         Next.js Innovation Lead
+        <br>
+        <img src="https://i.imgur.com/QIqhFNC.gif" width="80">
       </td>
     </tr>
   </table>
@@ -119,14 +137,17 @@
   <img src="https://i.imgur.com/waxVImv.png" width="100%">
 </div>
 
-<!-- Technologies Section with Interactive Icons -->
+<!-- Technologies Section with Interactive Icons and Anime Elements -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42">
+  <img src="https://i.imgur.com/YTzqOJY.gif" width="42">
   <span style="color:#9370DB"> Technologies & Tools </span>
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42">
+  <img src="https://i.imgur.com/YTzqOJY.gif" width="42">
 </h2>
 
 <div align="center">
+  <!-- Anime Character Mascot -->
+  <img src="https://i.imgur.com/GP3IGSJ.gif" width="180" alt="Tech Mascot">
+  
   <!-- Languages -->
   <h3 align="center">📋 Programming Languages</h3>
   <p align="center">
@@ -167,17 +188,21 @@
   </p>
 </div>
 
-<!-- Interactive Next.js Animation -->
+<!-- Anime-style Next.js Animation -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-f2917750d23a.gif" width="100%">
+  <img src="https://i.imgur.com/WB4zS92.gif" width="100%">
 </div>
 
-<!-- Premium 3D Stats Section -->
+<!-- Premium 3D Stats Section with Anime Decoration -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  <img src="https://i.imgur.com/wz5tKEE.gif" width="42">
   <span style="color:#9370DB"> GitHub Analytics </span>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  <img src="https://i.imgur.com/wz5tKEE.gif" width="42">
 </h2>
+
+<p align="center">
+  <img src="https://i.imgur.com/m6Ztx6n.gif" width="180" alt="Anime Stats Character">
+</p>
 
 <p align="center">
   <a href="https://github.com/vicky166">
@@ -186,18 +211,23 @@
   </a>
 </p>
 
-<!-- Advanced Streak Stats with 3D Effect -->
+<!-- Advanced Streak Stats with 3D Effect and Anime Elements -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vicky166&theme=radical&border=7F3FBF&background=0D1117&stroke=7F3FBF&ring=D238CD&fire=D238CD&currStreakNum=D238CD&sideNums=D238CD&currStreakLabel=D238CD&sideLabels=D238CD&dates=D238CD" alt="Vicky's GitHub Streak" width="60%" />
 </p>
 
-<!-- Interactive Next.js Skills Chart -->
+<!-- Anime Character Dancing -->
+<p align="center">
+  <img src="https://i.imgur.com/l3uGl7l.gif" width="180" alt="Anime Dancing">
+</p>
+
+<!-- Interactive Next.js Skills Chart with Anime Elements -->
 <h3 align="center">🌟 Next.js Expertise</h3>
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://user-images.githubusercontent.com/74038190/214375816-e83e83e3-f961-4391-80b1-d56b4549412a.gif" width="100%" alt="Next.js Animation">
+        <img src="https://i.imgur.com/q6pzBCe.gif" width="100%" alt="Next.js Animation">
       </td>
       <td>
         <div>
@@ -248,34 +278,34 @@
   </table>
 </div>
 
-<!-- Enhanced Next.js Technology Highlight -->
+<!-- Enhanced Next.js Technology Highlight with Anime Characters -->
 <h3 align="center">⚡ Next.js Projects Highlights</h3>
 <div align="center">
   <table>
     <tr valign="top">
       <td width="25%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80px">
+        <img src="https://i.imgur.com/AksVzMU.gif" width="80px">
         <br><br>
         <b>Server Components</b>
         <br>
         <small>Performance Optimized</small>
       </td>
       <td width="25%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80px">
+        <img src="https://i.imgur.com/mFbzYUF.gif" width="80px">
         <br><br>
         <b>Full-stack Apps</b>
         <br>
         <small>E2E Solutions</small>
       </td>
       <td width="25%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80px">
+        <img src="https://i.imgur.com/pKK1FCV.gif" width="80px">
         <br><br>
         <b>API Integration</b>
         <br>
         <small>Web3 & Traditional</small>
       </td>
       <td width="25%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="80px">
+        <img src="https://i.imgur.com/3Q0xsk1.gif" width="80px">
         <br><br>
         <b>UI/UX Design</b>
         <br>
@@ -285,20 +315,24 @@
   </table>
 </div>
 
-<!-- Featured Projects with 3D Cards -->
+<!-- Featured Projects with 3D Cards and Anime Elements -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42">
+  <img src="https://i.imgur.com/1uNDwJf.gif" width="42">
   <span style="color:#9370DB"> Showcase Projects </span>
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42">
+  <img src="https://i.imgur.com/1uNDwJf.gif" width="42">
 </h2>
 
 <div align="center">
+  <img src="https://i.imgur.com/LX8kMDT.gif" width="180" alt="Anime Projects">
+</div>
+
+<div align="center">
   <a href="https://github.com/vicky166">
-    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+    <img src="https://i.imgur.com/cKCDfaP.gif" width="100%">
   </a>
 </div>
 
-<!-- Enhanced 3D Project Cards -->
+<!-- Enhanced 3D Project Cards with Anime Decorations -->
 <div align="center">
   <table>
     <tr>
@@ -310,6 +344,9 @@
             <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
             <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
           </p>
+          <p align="center">
+            <img src="https://i.imgur.com/ZKMnfUW.gif" width="80" alt="Anime Coding">
+          </p>
         </a>
       </td>
       <td width="50%">
@@ -319,6 +356,9 @@
           <p align="center">
             <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
             <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+          </p>
+          <p align="center">
+            <img src="https://i.imgur.com/ZAQIgkf.gif" width="80" alt="Anime Web3">
           </p>
         </a>
       </td>
@@ -332,6 +372,9 @@
             <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
             <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
           </p>
+          <p align="center">
+            <img src="https://i.imgur.com/UhTMPLw.gif" width="80" alt="Anime Shopping">
+          </p>
         </a>
       </td>
       <td width="50%">
@@ -341,6 +384,9 @@
           <p align="center">
             <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
             <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+          </p>
+          <p align="center">
+            <img src="https://i.imgur.com/3O0j7QF.gif" width="80" alt="Anime Portfolio">
           </p>
         </a>
       </td>
@@ -354,16 +400,16 @@
   </a>
 </div>
 
-<!-- Connect Section with Advanced Animations -->
+<!-- Connect Section with Advanced Animations and Anime Characters -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42">
+  <img src="https://i.imgur.com/fLeWXH0.gif" width="42">
   <span style="color:#9370DB"> Connect & Collaborate </span>
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42">
+  <img src="https://i.imgur.com/fLeWXH0.gif" width="42">
 </h2>
 
-<!-- Dynamic Connection Animation -->
+<!-- Dynamic Connection Animation with Anime Characters -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100%">
+  <img src="https://i.imgur.com/D5PJcz9.gif" width="180" alt="Anime Connect">
 </div>
 
 <p align="center">
@@ -381,7 +427,7 @@
   </a>
 </p>
 
-<!-- Enhanced Availability Section -->
+<!-- Enhanced Availability Section with Anime Elements -->
 <div align="center">
   <table>
     <tr>
@@ -393,6 +439,9 @@
           <li>🎨 UI/UX Implementation</li>
           <li>🔗 Web3 Integration with Next.js</li>
         </ul>
+        <p align="center">
+          <img src="https://i.imgur.com/R5AUqLU.gif" width="120" alt="Anime Developer">
+        </p>
       </td>
       <td>
         <h3>💬 Let's discuss:</h3>
@@ -402,25 +451,32 @@
           <li>📈 Scaling Frontend Applications</li>
           <li>🔍 Modern Web Development Practices</li>
         </ul>
+        <p align="center">
+          <img src="https://i.imgur.com/KDEpXJ6.gif" width="120" alt="Anime Collaboration">
+        </p>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Quote with Fancy Animation -->
+<!-- Quote with Fancy Animation and Anime Character -->
 <div align="center">
+  <img src="https://i.imgur.com/c6YjMvi.gif" width="180" alt="Anime Reading">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%" />
 </div>
 
-<!-- Animated Code Flow -->
+<!-- Animated Code Flow with Anime Style -->
 <div align="center">
   <h3>⚡ Next.js & React Magic ⚡</h3>
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" alt="Code Flow">
+  <img src="https://i.imgur.com/qgAwDDU.gif" width="100%" alt="Anime Coding">
 </div>
 
-<!-- 3D Animated Footer -->
+<!-- 3D Animated Footer with Anime Character -->
+<div align="center">
+  <img src="https://i.imgur.com/Jx7kOfv.gif" width="220" alt="Anime Waving">
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=170&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=7F3FBF&center=true&vCenter=true&random=false&width=550&height=45&lines=Building+the+Future+of+Web+with+Next.js+🚀" alt="Typing SVG" />
-</div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=7F3FBF&center=
