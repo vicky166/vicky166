@@ -325,7 +325,6 @@
 </h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l3mZm3Nh6A4lZkr84/giphy.gif" width="180" alt="Projects">
 </div>
 
 <!-- New Programming Humor Meme -->
