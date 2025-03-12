@@ -32,7 +32,6 @@
 <h2 align="center">
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="42">
   <span style="color:#9370DB"> About Me </span>
-<img src="https://media.giphy.com/media/Ov5NiLVXT8JEc/giphy.gif" width="300">
 
 <div align="center">
   <table>
