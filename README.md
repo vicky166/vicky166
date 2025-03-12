@@ -3,7 +3,8 @@
 
 <!-- Tech Meme Animation Instead of Standard GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350" alt="Programming Meme" />
+<img src="https://media.giphy.com/media/KD8Ldwzx90X9hi9QHW/giphy.gif" width="300">
+
 </p>
 
 <!-- Dynamic Stats SVG -->
