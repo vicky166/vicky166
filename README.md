@@ -1,37 +1,42 @@
-<!-- Banner Image -->
+<!-- Header with a futuristic banner -->
 <p align="center">
-  <img src="https://your-image-url.com/header.png" alt="Vicky's GitHub Banner">
+  <img src="https://your-image-url.com/futuristic-banner.gif" alt="Vicky's GitHub Banner">
 </p>
 
 # Hey there, I'm Vicky! 👋  
-## 🚀 Open Source | Blockchain | Web3  
+## 🚀 Blockchain Developer | Open Source | AI & Web3  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vicky166&color=blue)  
+🚀 **"Building the future of Web3 with Smart Contracts & AI."**  
 
 ---
 
 ## 🧑‍💻 About Me  
 🔹 Passionate **Blockchain & Web3 Developer**  
-🔹 Currently mastering **Solidity & TypeScript**  
-🔹 Building innovative **DeFi & Smart Contract solutions**  
-🔹 Open-source enthusiast and active contributor  
+🔹 Specializing in **Solidity, TypeScript, & AI-integrated Web3 apps**  
+🔹 Contributor to **DeFi, Smart Contracts, and Open Source Projects**  
+🔹 Exploring **AI + Blockchain** for decentralized automation  
 
 ---
 
 ## 🚀 What I Do  
-✅ Develop & audit **Smart Contracts**  
-✅ Build & optimize **TypeScript/JavaScript applications**  
-✅ Contribute to **open-source blockchain projects**  
+✅ Develop & audit **Smart Contracts** (ERC20, ERC721, DeFi)  
+✅ Build & optimize **TypeScript/JavaScript-based dApps**  
+✅ Contribute to **open-source blockchain & AI projects**  
 
 ---
 
 ## 🎬 Crazy Cool Animations  
 
+### **💻 Futuristic AI Coding Animation**
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="600">
 </p>
 
-![Snake animation](https://github.com/vicky166/vicky166/blob/output/github-contribution-grid-snake.svg)
+### **🧠 AI Meets Blockchain**
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600">
+</p>
 
 ---
 
