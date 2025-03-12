@@ -58,7 +58,7 @@
   </table>
 </div>
 
-<!-- Animated Journey Timeline with Tech Memes -->
+<!-- Animated Journey Timeline with Balanced Tech & Memes -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="42"> 
   My Developer Journey
@@ -69,10 +69,10 @@
   <img src="https://i.imgur.com/waxVImv.png" width="100%">
 </div>
 
-<!-- Animated Next.js Journey Timeline with Tech Memes -->
+<!-- Balanced Next.js Journey Timeline with famous memes and tech animations -->
 <div align="center">
-  <!-- Classic "It's Working" Meme -->
-  <img src="https://media.giphy.com/media/5wWf7GMbT1ZUGTDdTqM/giphy.gif" width="100%">
+  <!-- "It works on my machine" classic developer meme -->
+  <img src="https://media.giphy.com/media/XbxZ41fWLeRECPsGIJ/giphy.gif" width="100%">
   <table>
     <tr>
       <td align="center">
@@ -82,7 +82,8 @@
         <br>
         React Developer
         <br>
-        <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="80">
+        <!-- "Hello World" animation -->
+        <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="80">
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/nextjs.png" width="60px">
@@ -91,7 +92,8 @@
         <br>
         Next.js Explorer
         <br>
-        <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="80">
+        <!-- Classic "It's Working" meme -->
+        <img src="https://media.giphy.com/media/5wWf7GMbT1ZUGTDdTqM/giphy.gif" width="80">
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/typescript.png" width="60px">
@@ -100,7 +102,8 @@
         <br>
         TypeScript Integration
         <br>
-        <img src="https://media.giphy.com/media/iFkHQLzYA09Zm/giphy.gif" width="80">
+        <!-- Tech animation for code -->
+        <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80">
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/blockchain.png" width="60px">
@@ -109,7 +112,8 @@
         <br>
         Web3 Integration
         <br>
-        <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="80">
+        <!-- Blockchain animation -->
+        <img src="https://media.giphy.com/media/HVNvHYTrMaDBGzXXG3/giphy.gif" width="80">
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/nextjs.png" width="60px">
@@ -118,7 +122,8 @@
         <br>
         Next.js App Router
         <br>
-        <img src="https://media.giphy.com/media/l0HlMr2G3EKFgpUY0/giphy.gif" width="80">
+        <!-- Famous "This is fine" meme -->
+        <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="80">
       </td>
       <td align="center">
         <img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/58/000000/external-rocket-space-vitaliy-gorbachev-flat-vitaly-gorbachev.png" width="60px">
@@ -127,7 +132,8 @@
         <br>
         Next.js Innovation Lead
         <br>
-        <img src="https://media.giphy.com/media/RrVzUOXldFe8M/giphy.gif" width="80">
+        <!-- Space/rocket tech animation -->
+        <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="80">
       </td>
     </tr>
   </table>
@@ -435,5 +441,4 @@
 <!-- Classic "I'm Available" Meme -->
 <div align="center">
   <img src="https://media.giphy.com/media/1jXGsHY2EKdL27mEMd/giphy.gif" width="250" alt="Available">
-  <h3>📅 Available for Projects</h3>
-</div>
+  <h3>📅 Available for Projects</h3
