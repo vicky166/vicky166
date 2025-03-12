@@ -1,6 +1,16 @@
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600">
 </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5733&width=600&lines=Hey+there!+I'm+Vicky+%F0%9F%91%8B;I+love+Web3+%26+Smart+Contracts!+%E2%9A%A1;Open+Source+Contributor!)](https://git.io/typing-svg)
+![Snake animation](https://github.com/vicky166/vicky166/blob/output/github-contribution-grid-snake.svg)
+### 💻 Tech Stack  
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity)  
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p>
+
 
 ## Hey there, I'm Vicky! 👋  
 ### 🚀 | Open Source Contributor  
