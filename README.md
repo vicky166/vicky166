@@ -25,9 +25,7 @@
 </p>
 
 <!-- Added Funny Developer Life Meme Animation -->
-<div align="center">
-  <img src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif" width="100%" alt="Coding Life Reality">
-</div>
+
 
 <!-- About Me Section with Tech Meme Animation -->
 <h2 align="center">
@@ -220,9 +218,7 @@
 </p>
 
 <!-- New Developer Humor Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="100%" alt="Developer Expectation vs Reality" />
-</p>
+
 
 <!-- Tech Meme Character -->
 <p align="center">
@@ -327,7 +323,6 @@
 <h2 align="center">
   <img src="https://media.giphy.com/media/LO8ipFG2vaYOjEjnDz/giphy.gif" width="42">
   <span style="color:#9370DB"> Showcase Projects </span>
-  <img src="https://media.giphy.com/media/LO8ipFG2vaYOjEjnDz/giphy.gif" width="42">
 </h2>
 
 <div align="center">
