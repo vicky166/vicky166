@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Vicky! 👋
+### 🚀 | Open Source Contributor  
 
-<!--
-**vicky166/vicky166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **DeFi & Smart Contracts**  
+- 🌱 Learning **Solidity,**  
+- 💬 Ask me about **Web3, JavaScript, and TypeScript**  
+- ⚡ Fun fact: I love Anime & Open Source 😎  
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vicky166&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vicky166&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicky166&layout=compact&theme=radical)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourprofile)  
