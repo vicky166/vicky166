@@ -1,6 +1,11 @@
 <!-- Animated 3D Header with Custom Badges and Tech Elements -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12&section=header&text=Vicky&fontColor=ffffff&fontSize=90&animation=fadeIn&strokeWidth=2&fontAlignY=38&desc=Next.js%20Developer%20|%20Web3%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
 
+<!-- Matrix Code Rain Animation - NEW! -->
+<div align="center">
+  <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="100%" alt="Matrix Code Animation">
+</div>
+
 <!-- Tech-Themed Decoration -->
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" alt="Developer Animation" />
@@ -17,16 +22,26 @@
   <img src="https://komarev.com/ghpvc/?username=vicky166&style=for-the-badge&color=6e5494" alt="Profile views" />
 </p>
 
-<!-- Premium Animated Typing Widget with Tech Style -->
+<!-- NEW! Animated Neon Text Effect -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7qE4lyQs1ZjEu6VG/giphy.gif" width="100%" alt="Neon Light Animation">
+</div>
+
+<!-- Enhanced Premium Animated Typing Widget with Tech Style -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=800&height=120&lines=Building+Modern+Web+Experiences;Next.js+Expert+%26+Frontend+Architect;Crafting+the+Future+of+Web+Development" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Tech-style Coding Animation -->
+<!-- Keep The Simpsons Animation as requested -->
 <div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%">
+</div>
+
+<!-- NEW! Digital Particle Animation -->
+<div align="center">
+  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%" alt="Digital Particle Animation">
 </div>
 
 <!-- About Me Section with Tech-themed Animation -->
@@ -35,6 +50,11 @@
   <span style="color:#9370DB"> About Me </span>
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42">
 </h2>
+
+<!-- NEW! Animated Holographic Effect -->
+<div align="center">
+  <img src="https://media.giphy.com/media/l3nWqD4ViFej9REAo/giphy.gif" width="100%" alt="Holographic Wave Effect">
+</div>
 
 <div align="center">
   <table>
@@ -58,6 +78,11 @@
   </table>
 </div>
 
+<!-- NEW! Futuristic Code Animation -->
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Futuristic Code Animation">
+</div>
+
 <!-- Animated Journey Timeline with Tech Elements -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp7ii/giphy.gif" width="42"> 
@@ -67,6 +92,11 @@
 
 <div align="center">
   <img src="https://i.imgur.com/waxVImv.png" width="100%">
+</div>
+
+<!-- NEW! Animated Cyberpunk Style Divider -->
+<div align="center">
+  <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="100%" alt="Cyberpunk Animation">
 </div>
 
 <!-- Animated Next.js Journey Timeline -->
@@ -133,6 +163,11 @@
   </table>
 </div>
 
+<!-- NEW! Animated Circuit Board Design -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" alt="Circuit Board Animation">
+</div>
+
 <div align="center">
   <img src="https://i.imgur.com/waxVImv.png" width="100%">
 </div>
@@ -143,6 +178,11 @@
   <span style="color:#9370DB"> Technologies & Tools </span>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="42">
 </h2>
+
+<!-- NEW! Animated Floating Tech Icons -->
+<div align="center">
+  <img src="https://media.giphy.com/media/l378yCCaMlGwNrBvi/giphy.gif" width="100%" alt="Floating Tech Animation">
+</div>
 
 <div align="center">
   <!-- Tech Mascot -->
@@ -188,9 +228,19 @@
   </p>
 </div>
 
+<!-- NEW! Animated 3D Cube Animation -->
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgN8YKRhByRBzMI/giphy.gif" width="100%" alt="3D Rotating Cube">
+</div>
+
 <!-- Next.js Animation -->
 <div align="center">
   <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" width="100%">
+</div>
+
+<!-- NEW! Animated Glitch Text Effect -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="100%" alt="Glitch Text Effect">
 </div>
 
 <!-- Premium 3D Stats Section with Tech Decoration -->
@@ -216,6 +266,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vicky166&theme=radical&border=7F3FBF&background=0D1117&stroke=7F3FBF&ring=D238CD&fire=D238CD&currStreakNum=D238CD&sideNums=D238CD&currStreakLabel=D238CD&sideLabels=D238CD&dates=D238CD" alt="Vicky's GitHub Streak" width="60%" />
 </p>
 
+<!-- NEW! Animated Data Flow -->
+<div align="center">
+  <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" width="100%" alt="Data Flow Animation">
+</div>
+
 <!-- Snake Animation -->
 <p align="center">
   <img src="https://github.com/vicky166/vicky166/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
@@ -225,6 +280,11 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="180" alt="Tech Character">
 </p>
+
+<!-- NEW! Animated Coding Cat -->
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Coding Cat Animation">
+</div>
 
 <!-- Interactive Next.js Skills Chart -->
 <h3 align="center">🌟 Next.js Expertise</h3>
@@ -283,6 +343,11 @@
   </table>
 </div>
 
+<!-- NEW! Animated Terminal Typing Effect -->
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Terminal Typing">
+</div>
+
 <!-- Enhanced Next.js Technology Highlight -->
 <h3 align="center">⚡ Next.js Projects Highlights</h3>
 <div align="center">
@@ -320,6 +385,11 @@
   </table>
 </div>
 
+<!-- NEW! Animated Space Animation -->
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="100%" alt="Space Animation">
+</div>
+
 <!-- Featured Projects with 3D Cards -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/mrjvqUJxNgvR6KMNmR/giphy.gif" width="42">
@@ -329,6 +399,11 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="180" alt="Projects">
+</div>
+
+<!-- NEW! Animated Floating 3D Objects -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100%" alt="Floating 3D Objects">
 </div>
 
 <div align="center">
@@ -378,63 +453,4 @@
             <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
           </p>
           <p align="center">
-            <img src="https://media.giphy.com/media/iFcwM7cT6c3ZnrBYcI/giphy.gif" width="80" alt="Shopping">
-          </p>
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/vicky166">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicky166&repo=nextjs-portfolio&theme=radical&hide_border=true&title_color=D238CD&icon_color=D238CD&text_color=FFFFFF&bg_color=0D1117" width="100%" />
-          <h3 align="center">🌟 Portfolio Template</h3>
-          <p align="center">
-            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-            <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-          </p>
-          <p align="center">
-            <img src="https://media.giphy.com/media/cnzou4ydGM7GJZ4TTk/giphy.gif" width="80" alt="Portfolio">
-          </p>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <a href="https://github.com/vicky166?tab=repositories">
-    <img src="https://custom-icon-badges.herokuapp.com/badge/-View%20All%20Repositories-181717?style=for-the-badge&logo=repo&logoColor=white" alt="All Repositories" />
-  </a>
-</div>
-
-<!-- Connect Section with Advanced Animations -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="42">
-  <span style="color:#9370DB"> Connect & Collaborate </span>
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="42">
-</h2>
-
-<!-- Dynamic Connection Animation -->
-<div align="center">
-  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="180" alt="Connect">
-</div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jhamit-kumar-2b8860315/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" alt="LinkedIn" height="30"/>
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2" alt="Twitter" height="30"/>
-  </a>
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&color=5865F2" alt="Discord" height="30"/>
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" alt="Email" height="30"/>
-  </a>
-</p>
-
-<!-- Enhanced Availability Section -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3>📅 Available for:</h3>
+            <img src="https://media.giphy.com/media
