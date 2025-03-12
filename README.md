@@ -61,8 +61,55 @@
   <img src="https://i.imgur.com/waxVImv.png" width="100%">
 </div>
 
+<!-- NEW: Animated Blockchain Journey Timeline Instead of GitHub Timeline -->
 <div align="center">
-  <img align="center" src="https://github-readme-timeline.herokuapp.com/?username=vicky166&theme=radical&date_format=M%20Y" alt="My Journey" width="850px">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/blockchain.png" width="60px">
+        <br>
+        <b>2019</b>
+        <br>
+        First Smart Contract
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/ethereum.png" width="60px">
+        <br>
+        <b>2020</b>
+        <br>
+        Ethereum Developer
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/nft.png" width="60px">
+        <br>
+        <b>2021</b>
+        <br>
+        NFT Platform Launch
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/bitcoin--v1.png" width="60px">
+        <br>
+        <b>2022</b>
+        <br>
+        DeFi Protocol Architect
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/58/000000/external-rocket-space-vitaliy-gorbachev-flat-vitaly-gorbachev.png" width="60px">
+        <br>
+        <b>2023</b>
+        <br>
+        L2 Solutions Explorer
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/48/000000/blockchain-technology.png" width="60px">
+        <br>
+        <b>2024</b>
+        <br>
+        Web3 Innovation Lead
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
@@ -118,9 +165,9 @@
   </p>
 </div>
 
-<!-- Blockchain Animation -->
+<!-- NEW: Interactive Blockchain Animation Instead of Static Marquee -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%">
 </div>
 
 <!-- Premium 3D Stats Section -->
@@ -142,19 +189,99 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vicky166&theme=radical&border=7F3FBF&background=0D1117&stroke=7F3FBF&ring=D238CD&fire=D238CD&currStreakNum=D238CD&sideNums=D238CD&currStreakLabel=D238CD&sideLabels=D238CD&dates=D238CD" alt="Vicky's GitHub Streak" width="60%" />
 </p>
 
-<!-- Contribution Graph with 3D Effect -->
-<p align="center">
-  <a href="https://github.com/vicky166">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vicky166&custom_title=Vicky's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" width="90%">
-  </a>
-</p>
+<!-- NEW: Interactive Web3 Skills Chart Instead of Contribution Graph -->
+<h3 align="center">🌟 Web3 Expertise</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/vicky166/vicky166/blob/main/assets/radar-chart.svg" width="100%" alt="Skills Radar Chart">
+      </td>
+      <td>
+        <div>
+          <h4>Blockchain Expertise</h4>
+          <div style="background-color: #1c1c1c; border-radius: 10px; padding: 10px;">
+            <div style="display: flex; align-items: center; margin-bottom: 8px;">
+              <div style="width: 20px; height: 20px; background-color: #FF6B6B; border-radius: 50%; margin-right: 10px;"></div>
+              <div>Smart Contracts</div>
+              <div style="margin-left: auto; font-weight: bold;">95%</div>
+            </div>
+            <div style="width: 100%; height: 10px; background-color: #2d2d2d; border-radius: 5px; overflow: hidden;">
+              <div style="width: 95%; height: 100%; background-color: #FF6B6B;"></div>
+            </div>
+          </div>
+          <div style="background-color: #1c1c1c; border-radius: 10px; padding: 10px; margin-top: 10px;">
+            <div style="display: flex; align-items: center; margin-bottom: 8px;">
+              <div style="width: 20px; height: 20px; background-color: #4ECDC4; border-radius: 50%; margin-right: 10px;"></div>
+              <div>DeFi Protocols</div>
+              <div style="margin-left: auto; font-weight: bold;">88%</div>
+            </div>
+            <div style="width: 100%; height: 10px; background-color: #2d2d2d; border-radius: 5px; overflow: hidden;">
+              <div style="width: 88%; height: 100%; background-color: #4ECDC4;"></div>
+            </div>
+          </div>
+          <div style="background-color: #1c1c1c; border-radius: 10px; padding: 10px; margin-top: 10px;">
+            <div style="display: flex; align-items: center; margin-bottom: 8px;">
+              <div style="width: 20px; height: 20px; background-color: #FFD166; border-radius: 50%; margin-right: 10px;"></div>
+              <div>NFT Development</div>
+              <div style="margin-left: auto; font-weight: bold;">92%</div>
+            </div>
+            <div style="width: 100%; height: 10px; background-color: #2d2d2d; border-radius: 5px; overflow: hidden;">
+              <div style="width: 92%; height: 100%; background-color: #FFD166;"></div>
+            </div>
+          </div>
+          <div style="background-color: #1c1c1c; border-radius: 10px; padding: 10px; margin-top: 10px;">
+            <div style="display: flex; align-items: center; margin-bottom: 8px;">
+              <div style="width: 20px; height: 20px; background-color: #118AB2; border-radius: 50%; margin-right: 10px;"></div>
+              <div>Layer 2 Solutions</div>
+              <div style="margin-left: auto; font-weight: bold;">85%</div>
+            </div>
+            <div style="width: 100%; height: 10px; background-color: #2d2d2d; border-radius: 5px; overflow: hidden;">
+              <div style="width: 85%; height: 100%; background-color: #118AB2;"></div>
+            </div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<!-- 3D Contribution Map -->
-<p align="center">
-  <a href="https://github.com/vicky166">
-    <img width="100%" src="https://github.com/vicky166/vicky166/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
-  </a>
-</p>
+<!-- NEW: Interactive Blockchain Technology Highlight -->
+<h3 align="center">⚡ Blockchain Projects Highlights</h3>
+<div align="center">
+  <table>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <img src="https://img.icons8.com/fluency/96/000000/ethereum.png" width="80px">
+        <br><br>
+        <b>Smart Contracts</b>
+        <br>
+        <small>20+ Production Contracts</small>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-exchange-banking-and-finance-kiranshastry-lineal-color-kiranshastry.png" width="80px">
+        <br><br>
+        <b>DeFi Apps</b>
+        <br>
+        <small>$10M+ TVL Managed</small>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://img.icons8.com/external-filled-outline-wichaiwi/64/000000/external-nft-non-fungible-token-filled-outline-wichaiwi.png" width="80px">
+        <br><br>
+        <b>NFT Collections</b>
+        <br>
+        <small>5+ Successful Launches</small>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-blockchain-cryptocurrency-flaticons-flat-flat-icons-2.png" width="80px">
+        <br><br>
+        <b>Security Audits</b>
+        <br>
+        <small>15+ Protocols Secured</small>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- Featured Projects with 3D Cards -->
 <h2 align="center">
@@ -165,25 +292,58 @@
 
 <div align="center">
   <a href="https://github.com/vicky166">
-    <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" width="100%">
+    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
   </a>
 </div>
 
+<!-- NEW: Enhanced 3D Project Cards with Icons -->
 <div align="center">
-  <a href="https://github.com/vicky166">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicky166&repo=your-defi-project&theme=radical&hide_border=true&title_color=D238CD&icon_color=D238CD&text_color=FFFFFF&bg_color=0D1117" width="49%" />
-  </a>
-  <a href="https://github.com/vicky166">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicky166&repo=your-nft-marketplace&theme=radical&hide_border=true&title_color=D238CD&icon_color=D238CD&text_color=FFFFFF&bg_color=0D1117" width="49%" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/vicky166">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicky166&repo=your-dao-framework&theme=radical&hide_border=true&title_color=D238CD&icon_color=D238CD&text_color=FFFFFF&bg_color=0D1117" width="49%" />
-  </a>
-  <a href="https://github.com/vicky166">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicky166&repo=your-smart-contracts&theme=radical&hide_border=true&title_color=D238CD&icon_color=D238CD&text_color=FFFFFF&bg_color=0D1117" width="49%" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/vicky166">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicky166&repo=your-defi-project&theme=radical&hide_border=true&title_color=D238CD&icon_color=D238CD&text_color=FFFFFF&bg_color=0D1117" width="100%" />
+          <h3 align="center">🚀 DeFi Yield Aggregator</h3>
+          <p align="center">
+            <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+            <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+          </p>
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/vicky166">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicky166&repo=your-nft-marketplace&theme=radical&hide_border=true&title_color=D238CD&icon_color=D238CD&text_color=FFFFFF&bg_color=0D1117" width="100%" />
+          <h3 align="center">🎨 NFT Marketplace</h3>
+          <p align="center">
+            <img src="https://img.shields.io/badge/ERC--721-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+          </p>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/vicky166">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicky166&repo=your-dao-framework&theme=radical&hide_border=true&title_color=D238CD&icon_color=D238CD&text_color=FFFFFF&bg_color=0D1117" width="100%" />
+          <h3 align="center">🏛️ DAO Governance Framework</h3>
+          <p align="center">
+            <img src="https://img.shields.io/badge/Hardhat-F9DC3E?style=for-the-badge&logo=hardhat&logoColor=black" />
+            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+          </p>
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/vicky166">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicky166&repo=your-smart-contracts&theme=radical&hide_border=true&title_color=D238CD&icon_color=D238CD&text_color=FFFFFF&bg_color=0D1117" width="100%" />
+          <h3 align="center">🔐 Smart Contract Library</h3>
+          <p align="center">
+            <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+            <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=OpenZeppelin&logoColor=white" />
+          </p>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
@@ -199,10 +359,9 @@
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42">
 </h2>
 
+<!-- NEW: Dynamic Connection Animation -->
 <div align="center">
-  <a href="https://github.com/vicky166">
-    <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" width="100%">
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%">
 </div>
 
 <p align="center">
@@ -220,18 +379,43 @@
   </a>
 </p>
 
+<!-- NEW: Enhanced Availability Section -->
 <div align="center">
-  <p>
-    <b>📅 Available for:</b> Smart Contract Audits, DeFi Development, Consulting, Speaking Engagements
-  </p>
-  <p>
-    <b>💬 Let's discuss:</b> Blockchain Innovation, Zero-Knowledge, Cross-Chain Solutions
-  </p>
+  <table>
+    <tr>
+      <td>
+        <h3>📅 Available for:</h3>
+        <ul>
+          <li>📊 Smart Contract Audits & Security Research</li>
+          <li>💹 DeFi Protocol Design & Implementation</li>
+          <li>🔍 Blockchain Consulting & Architecture</li>
+          <li>🎤 Speaking at Web3 Events & Conferences</li>
+        </ul>
+      </td>
+      <td>
+        <h3>💬 Let's discuss:</h3>
+        <ul>
+          <li>🧩 Zero-Knowledge Proofs & Privacy Solutions</li>
+          <li>🌉 Cross-Chain Interoperability Standards</li>
+          <li>📈 Tokenomics & Sustainable DeFi Models</li>
+          <li>🔒 Web3 Security Best Practices</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Quote with Fancy Animation -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%" />
+</div>
+
+<!-- NEW: Dynamic Crypto Ticker Animation -->
+<div align="center">
+  <h3>⚡ Live Crypto Market Pulse ⚡</h3>
+  <a href="https://github.com/vicky166">
+    <img src="https://cryptowidget.netlify.app/widget/dark/bitcoin,ethereum,polygon,solana,cardano/ticker" width="90%" alt="Crypto Ticker">
+  </a>
 </div>
 
 <!-- 3D Animated Footer -->
