@@ -20,7 +20,7 @@
 <!-- Upgraded Animated Typing Widget with Tech Style -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2000&pause=500&center=true&vCenter=true&multiline=true&random=false&width=800&height=120&lines=console.log(%22Hello+World%22);npm+run+build+--next.js;import+React+from+'react'" alt="Typing SVG" />
+   
   </a>
 </p>
 
