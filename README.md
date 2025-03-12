@@ -62,7 +62,6 @@
 <h2 align="center">
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp7ii/giphy.gif" width="42"> 
   My Developer Journey
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp7ii/giphy.gif" width="42">
 </h2>
 
 <div align="center">
