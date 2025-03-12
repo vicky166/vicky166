@@ -1,11 +1,6 @@
 <!-- Animated 3D Header with Custom Badges and Tech Elements -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12&section=header&text=Vicky&fontColor=ffffff&fontSize=90&animation=fadeIn&strokeWidth=2&fontAlignY=38&desc=Next.js%20Developer%20|%20Web3%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
 
-<!-- Tech Meme Animation Instead of Standard GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350" alt="Programming Meme" />
-</p>
-
 <!-- Dynamic Stats SVG -->
 <p align="center">
   <a href="#">
@@ -20,7 +15,7 @@
 <!-- Upgraded Animated Typing Widget with Tech Style -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-   
+
   </a>
 </p>
 
@@ -40,7 +35,8 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" width="100%">
+        <!-- Funny Animated Video -->
+        <img src="https://media.giphy.com/media/kyLYXonQYYfwYDIeWk/giphy.gif" width="100%">
       </td>
       <td width="50%">
         <h3 align="center">Next.js Developer & Web Innovator</h3>
@@ -60,7 +56,7 @@
 
 <!-- Animated Journey Timeline with Balanced Tech & Memes -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="42"> 
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="42">
   My Developer Journey
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="42">
 </h2>
@@ -149,11 +145,10 @@
   <span style="color:#9370DB"> Technologies & Tools </span>
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42">
 </h2>
-
 <div align="center">
   <!-- Tech Meme Mascot -->
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="180" alt="Tech Meme">
-  
+
   <!-- Languages -->
   <h3 align="center">📋 Programming Languages</h3>
   <p align="center">
@@ -163,7 +158,7 @@
     <a href="#"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white&labelColor=282828&logoWidth=20" height="25"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white&labelColor=282828&logoWidth=20" height="25"/></a>
   </p>
-  
+
   <!-- Frontend -->
   <h3 align="center">🖥️ Frontend Development</h3>
   <p align="center">
@@ -173,7 +168,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=plastic&logo=redux&logoColor=white&labelColor=282828&logoWidth=20" height="25"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Framer_Motion-%230055FF.svg?style=plastic&logo=framer&logoColor=white&labelColor=282828&logoWidth=20" height="25"/></a>
   </p>
-  
+
   <!-- Blockchain -->
   <h3 align="center">⛓️ Web3 Integration</h3>
   <p align="center">
@@ -182,7 +177,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Ethers.js-%231C1C1C.svg?style=plastic&logo=ethereum&logoColor=white&labelColor=282828&logoWidth=20" height="25"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Metamask-%23F6851B.svg?style=plastic&logo=metamask&logoColor=white&labelColor=282828&logoWidth=20" height="25"/></a>
   </p>
-  
+
   <!-- Backend & Tools -->
   <h3 align="center">🔧 Backend & DevOps</h3>
   <p align="center">
@@ -231,7 +226,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" width="180" alt="Tech Character">
 </p>
-
 <!-- Interactive Next.js Skills Chart -->
 <h3 align="center">🌟 Next.js Expertise</h3>
 <div align="center">
@@ -334,111 +328,4 @@
 </h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l3mZm3Nh6A4lZkr84/giphy.gif" width="180" alt="Projects">
-</div>
-
-<div align="center">
-  <a href="https://github.com/vicky166">
-    <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%">
-  </a>
-</div>
-
-<!-- Enhanced 3D Project Cards with Tech Memes -->
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/vicky166">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicky166&repo=nextjs-dashboard&theme=radical&hide_border=true&title_color=D238CD&icon_color=D238CD&text_color=FFFFFF&bg_color=0D1117" width="100%" />
-          <h3 align="center">🚀 Next.js 14 Dashboard</h3>
-          <p align="center">
-            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-            <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-          </p>
-          <p align="center">
-            <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="80" alt="Coding">
-          </p>
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/vicky166">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicky166&repo=web3-nextjs-app&theme=radical&hide_border=true&title_color=D238CD&icon_color=D238CD&text_color=FFFFFF&bg_color=0D1117" width="100%" />
-          <h3 align="center">🎨 Web3 Next.js Integration</h3>
-          <p align="center">
-            <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-          </p>
-          <p align="center">
-            <img src="https://media.giphy.com/media/YWUpVw86AtIbe/giphy.gif" width="80" alt="Web3">
-          </p>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/vicky166">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicky166&repo=next-ecommerce&theme=radical&hide_border=true&title_color=D238CD&icon_color=D238CD&text_color=FFFFFF&bg_color=0D1117" width="100%" />
-          <h3 align="center">🛒 E-Commerce Platform</h3>
-          <p align="center">
-            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-          </p>
-          <p align="center">
-            <img src="https://media.giphy.com/media/9rtpH3SAPavoGVldsW/giphy.gif" width="80" alt="Shopping">
-          </p>
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/vicky166">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicky166&repo=nextjs-portfolio&theme=radical&hide_border=true&title_color=D238CD&icon_color=D238CD&text_color=FFFFFF&bg_color=0D1117" width="100%" />
-          <h3 align="center">🌟 Portfolio Template</h3>
-          <p align="center">
-            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-            <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-          </p>
-          <p align="center">
-            <img src="https://media.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.gif" width="80" alt="Portfolio">
-          </p>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <a href="https://github.com/vicky166?tab=repositories">
-    <img src="https://custom-icon-badges.herokuapp.com/badge/-View%20All%20Repositories-181717?style=for-the-badge&logo=repo&logoColor=white" alt="All Repositories" />
-  </a>
-</div>
-
-<!-- Connect Section with Classic Tech Memes -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif" width="42">
-  <span style="color:#9370DB"> Connect & Collaborate </span>
-  <img src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif" width="42">
-</h2>
-
-<!-- Classic "Social Media" Animation -->
-<div align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="180" alt="Connect">
-</div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jhamit-kumar-2b8860315/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" alt="LinkedIn" height="30"/>
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2" alt="Twitter" height="30"/>
-  </a>
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&color=5865F2" alt="Discord" height="30"/>
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" alt="Email" height="30"/>
-  </a>
-</p>
-
-<!-- Classic "I'm Available" Meme -->
-<div align="center">
-  <img src="https://media.giphy.com/media/1jXGsHY2EKdL27mEMd/giphy.gif" width="250" alt="Available">
-  <h3>📅 Available for Projects</h3
+  <img src="https://media.giphy.com/media/l3m
