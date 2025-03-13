@@ -3,7 +3,8 @@
 
 <!-- Tech Meme Animation Instead of Standard GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350" alt="Programming Meme" />
+<img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="42">
+
 </p>
 
 <!-- Dynamic Stats SVG -->
@@ -24,17 +25,13 @@
   </a>
 </p>
 
-<!-- Classic "Works on My Machine" Meme -->
-<div align="center">
-  <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif" width="100%">
-</div>
+<!-- Added Funny Developer Life Meme Animation -->
+
 
 <!-- About Me Section with Tech Meme Animation -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="42">
   <span style="color:#9370DB"> About Me </span>
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="42">
-</h2>
 
 <div align="center">
   <table>
@@ -69,10 +66,13 @@
   <img src="https://i.imgur.com/waxVImv.png" width="100%">
 </div>
 
+<!-- New Developer Humor Meme -->
+<div align="center">
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="100%">
+</div>
+
 <!-- Animated Next.js Journey Timeline with Tech Memes -->
 <div align="center">
-  <!-- Classic "It's Working" Meme -->
-  <img src="https://media.giphy.com/media/5wWf7GMbT1ZUGTDdTqM/giphy.gif" width="100%">
   <table>
     <tr>
       <td align="center">
@@ -188,9 +188,9 @@
   </p>
 </div>
 
-<!-- Classic "Infinite Loop" Meme -->
+<!-- New Funny Developer Life Meme -->
 <div align="center">
-  <img src="https://media.giphy.com/media/12bVDtXPOzYwda/giphy.gif" width="100%">
+  <img src="https://media.giphy.com/media/iGpHt2H22k1orjgT9b/giphy.gif" width="100%" alt="Developer Debugging Life">
 </div>
 
 <!-- Premium 3D Stats Section with Tech Meme Decoration -->
@@ -216,10 +216,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vicky166&theme=radical&border=7F3FBF&background=0D1117&stroke=7F3FBF&ring=D238CD&fire=D238CD&currStreakNum=D238CD&sideNums=D238CD&currStreakLabel=D238CD&sideLabels=D238CD&dates=D238CD" alt="Vicky's GitHub Streak" width="60%" />
 </p>
 
-<!-- Classic "Matrix" Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="100%" />
-</p>
+<!-- New Developer Humor Animation -->
+
 
 <!-- Tech Meme Character -->
 <p align="center">
@@ -324,17 +322,14 @@
 <h2 align="center">
   <img src="https://media.giphy.com/media/LO8ipFG2vaYOjEjnDz/giphy.gif" width="42">
   <span style="color:#9370DB"> Showcase Projects </span>
-  <img src="https://media.giphy.com/media/LO8ipFG2vaYOjEjnDz/giphy.gif" width="42">
 </h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l3mZm3Nh6A4lZkr84/giphy.gif" width="180" alt="Projects">
 </div>
 
+<!-- New Programming Humor Meme -->
 <div align="center">
-  <a href="https://github.com/vicky166">
-    <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%">
-  </a>
+  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="100%" alt="Programming Reality">
 </div>
 
 <!-- Enhanced 3D Project Cards with Tech Memes -->
@@ -430,10 +425,3 @@
   <a href="mailto:your-email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" alt="Email" height="30"/>
   </a>
-</p>
-
-<!-- Classic "I'm Available" Meme -->
-<div align="center">
-  <img src="https://media.giphy.com/media/1jXGsHY2EKdL27mEMd/giphy.gif" width="250" alt="Available">
-  <h3>ðŸ“… Available for Projects</h3>
-</div>
