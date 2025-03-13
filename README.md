@@ -1,9 +1,9 @@
 <!-- Animated 3D Header with Custom Badges and Tech Elements -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12&section=header&text=Vicky&fontColor=ffffff&fontSize=90&animation=fadeIn&strokeWidth=2&fontAlignY=38&desc=Next.js%20Developer%20|%20Web3%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
 
-<!-- Tech-Themed Decoration -->
+<!-- Tech-Themed Decoration with Enhanced Image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" alt="Developer Animation" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350" alt="Developer Animation" />
 </p>
 
 <!-- Dynamic Stats SVG -->
@@ -15,6 +15,8 @@
     <img src="https://img.shields.io/github/followers/vicky166?style=for-the-badge&logo=github&color=6e5494" alt="Followers" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=vicky166&style=for-the-badge&color=6e5494" alt="Profile views" />
+  <!-- Added visitor counter -->
+  <img src="https://profile-counter.glitch.me/{vicky166}/count.svg" alt="Visitor Count" />
 </p>
 
 <!-- Premium Animated Typing Widget with Tech Style -->
@@ -24,12 +26,12 @@
   </a>
 </p>
 
-<!-- Tech-style Coding Animation -->
+<!-- Tech-style Coding Animation - Enhanced -->
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="100%">
 </div>
 
-<!-- About Me Section with Tech-themed Animation -->
+<!-- About Me Section with Tech-themed Animation - Enhanced with better coding GIF -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42">
   <span style="color:#9370DB"> About Me </span>
@@ -40,7 +42,7 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%">
+        <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="100%">
       </td>
       <td width="50%">
         <h3 align="center">Next.js Developer & Web Innovator</h3>
@@ -68,10 +70,10 @@
   <img src="https://i.imgur.com/waxVImv.png" width="100%">
 </div>
 
-<!-- Animated Next.js Journey Timeline -->
+<!-- Animated Next.js Journey Timeline - Enhanced with better tech animations -->
 <div align="center">
-  <!-- Tech-style Code Animation -->
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6X32/giphy.gif" width="100%">
+  <!-- Tech-style Code Animation - Updated with a cleaner coding animation -->
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZkMzlkYmFlNjhjZGRhZDk1NWUwYzEwODYxYzg3MDU5YmIwNzRmYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100%">
   <table>
     <tr>
       <td align="center">
@@ -81,10 +83,10 @@
         <br>
         React Developer
         <br>
-        <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="80">
+        <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp" width="80">
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/nextjs.png" width="60px">
+        <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" width="60px">
         <br>
         <b>2020</b>
         <br>
@@ -111,7 +113,7 @@
         <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width="80">
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/nextjs.png" width="60px">
+        <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" width="60px">
         <br>
         <b>2023</b>
         <br>
@@ -136,7 +138,7 @@
   <img src="https://i.imgur.com/waxVImv.png" width="100%">
 </div>
 
-<!-- Technologies Section with Tech Elements -->
+<!-- Technologies Section with Tech Elements - Enhanced with better tech icons -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="42">
   <span style="color:#9370DB"> Technologies & Tools </span>
@@ -144,8 +146,8 @@
 </h2>
 
 <div align="center">
-  <!-- Tech Mascot -->
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180" alt="Tech Mascot">
+  <!-- Tech Mascot - Enhanced with a more appealing animation -->
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVkM2EwOTMwNjQ0MTQzMzJiOWFiNGEyZDUxNDRkNDNiZGUwZjlmYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Tech Mascot">
   
   <!-- Languages -->
   <h3 align="center">📋 Programming Languages</h3>
@@ -187,12 +189,12 @@
   </p>
 </div>
 
-<!-- Next.js Animation -->
+<!-- Next.js Animation - Enhanced with a better coding/development animation -->
 <div align="center">
-  <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" width="100%">
+  <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" width="100%">
 </div>
 
-<!-- Premium 3D Stats Section with Tech Decoration -->
+<!-- Premium 3D Stats Section with Tech Decoration - Enhanced with better stats and graphs -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="42">
   <span style="color:#9370DB"> GitHub Analytics </span>
@@ -200,7 +202,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="180" alt="Stats Character">
+  <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="180" alt="Stats Character">
 </p>
 
 <p align="center">
@@ -208,6 +210,11 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vicky166&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vicky166&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
   </a>
+</p>
+
+<!-- Added 3D contribution graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vicky166&theme=radical&hide_border=true&bg_color=0D1117" width="100%" alt="Contribution Graph">
 </p>
 
 <!-- Advanced Streak Stats with 3D Effect -->
@@ -220,9 +227,9 @@
   <img src="https://github.com/vicky166/vicky166/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-<!-- Tech Character -->
+<!-- Tech Character - Enhanced with better animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="180" alt="Tech Character">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVkMTU2ZmYyZmE1YmUzOTMwZWIxMzUwMDI5N2ZjZjdkYzBlNGM1YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/RbDKaczqWovIugyJmW/giphy.gif" width="180" alt="Tech Character">
 </p>
 
 <!-- Interactive Next.js Skills Chart -->
@@ -282,34 +289,34 @@
   </table>
 </div>
 
-<!-- Enhanced Next.js Technology Highlight -->
+<!-- Enhanced Next.js Technology Highlight - Updated with better animations -->
 <h3 align="center">⚡ Next.js Projects Highlights</h3>
 <div align="center">
   <table>
     <tr valign="top">
       <td width="25%" align="center">
-        <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="80px">
+        <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp" width="80px">
         <br><br>
         <b>Server Components</b>
         <br>
         <small>Performance Optimized</small>
       </td>
       <td width="25%" align="center">
-        <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="80px">
+        <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.webp" width="80px">
         <br><br>
         <b>Full-stack Apps</b>
         <br>
         <small>E2E Solutions</small>
       </td>
       <td width="25%" align="center">
-        <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="80px">
+        <img src="https://next-auth.js.org/img/logo/logo-sm.png" width="80px">
         <br><br>
         <b>API Integration</b>
         <br>
         <small>Web3 & Traditional</small>
       </td>
       <td width="25%" align="center">
-        <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="80px">
+        <img src="https://refactoringui.nyc3.cdn.digitaloceanspaces.com/tailwind-logo.svg" width="80px">
         <br><br>
         <b>UI/UX Design</b>
         <br>
@@ -319,7 +326,7 @@
   </table>
 </div>
 
-<!-- Featured Projects with 3D Cards -->
+<!-- Featured Projects with 3D Cards - Enhanced with better project images -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/mrjvqUJxNgvR6KMNmR/giphy.gif" width="42">
   <span style="color:#9370DB"> Showcase Projects </span>
@@ -327,113 +334,9 @@
 </h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="180" alt="Projects">
+  <img src="https://i.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.webp" width="180" alt="Projects">
 </div>
 
 <div align="center">
   <a href="https://github.com/vicky166">
-    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%">
-  </a>
-</div>
-
-<!-- Enhanced 3D Project Cards -->
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/vicky166">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicky166&repo=nextjs-dashboard&theme=radical&hide_border=true&title_color=D238CD&icon_color=D238CD&text_color=FFFFFF&bg_color=0D1117" width="100%" />
-          <h3 align="center">🚀 Next.js 14 Dashboard</h3>
-          <p align="center">
-            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-            <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-          </p>
-          <p align="center">
-            <img src="https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif" width="80" alt="Coding">
-          </p>
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/vicky166">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicky166&repo=web3-nextjs-app&theme=radical&hide_border=true&title_color=D238CD&icon_color=D238CD&text_color=FFFFFF&bg_color=0D1117" width="100%" />
-          <h3 align="center">🎨 Web3 Next.js Integration</h3>
-          <p align="center">
-            <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-          </p>
-          <p align="center">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXE3YTZkNHY1enU0YWZoM2hmMjlyMDlqdnc0bzg2OHB5cWhjaXRrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HVofJOWFXGpDX4xeg1/giphy.gif" width="80" alt="Web3">
-          </p>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/vicky166">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicky166&repo=next-ecommerce&theme=radical&hide_border=true&title_color=D238CD&icon_color=D238CD&text_color=FFFFFF&bg_color=0D1117" width="100%" />
-          <h3 align="center">🛒 E-Commerce Platform</h3>
-          <p align="center">
-            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-          </p>
-          <p align="center">
-            <img src="https://media.giphy.com/media/iFcwM7cT6c3ZnrBYcI/giphy.gif" width="80" alt="Shopping">
-          </p>
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/vicky166">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicky166&repo=nextjs-portfolio&theme=radical&hide_border=true&title_color=D238CD&icon_color=D238CD&text_color=FFFFFF&bg_color=0D1117" width="100%" />
-          <h3 align="center">🌟 Portfolio Template</h3>
-          <p align="center">
-            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-            <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-          </p>
-          <p align="center">
-            <img src="https://media.giphy.com/media/cnzou4ydGM7GJZ4TTk/giphy.gif" width="80" alt="Portfolio">
-          </p>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <a href="https://github.com/vicky166?tab=repositories">
-    <img src="https://custom-icon-badges.herokuapp.com/badge/-View%20All%20Repositories-181717?style=for-the-badge&logo=repo&logoColor=white" alt="All Repositories" />
-  </a>
-</div>
-
-<!-- Connect Section with Advanced Animations -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="42">
-  <span style="color:#9370DB"> Connect & Collaborate </span>
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="42">
-</h2>
-
-<!-- Dynamic Connection Animation -->
-<div align="center">
-  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="180" alt="Connect">
-</div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jhamit-kumar-2b8860315/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" alt="LinkedIn" height="30"/>
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2" alt="Twitter" height="30"/>
-  </a>
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&color=5865F2" alt="Discord" height="30"/>
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" alt="Email" height="30"/>
-  </a>
-</p>
-
-<!-- Enhanced Availability Section -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3>📅 Available for:</h3>
+    <img src="https://camo.githubusercontent.com/3123900fe3f4b292ff23eea77ca5ae2433c4a268/68747470733a2f2f77617265686f7573652d63616d6f2e636d68312e707366686f737465642e6f72672f316133356133383732373032323638386237666162643964323537383863623165373064666165662f363837343734373037333361326632663633366336663735363432643639366637333734363132653633366636643266363937333733373536353733326633373332333233363339333533323632333633303339333833353337333533323634333533363335333033353334333633353337333732663633366636653734363536653734326633343338333033333330333233373633333433363338363236333635363433303633333336333631363336353337363433353332333936333339333233373332333033303338333933373336363136333635333533323634333933303334333533303331333436313334363533373339333133343335333433313334333533373330333433353334333236343339363336313633363536343339333833333333333836333330333133373635333033323337333433343331363236333631333333303338333033383336333036363339333836313334333936333334333833353339333433343335333933323634333936333636333333303333363133343330363336363334363336353330333133303332333933373631333133353337333033353337333536353335333133373334333633323635333933303335333036353337333033363332333333303338363433383336333433373336333533343338333133373336333333343334333336363336333436353335363336353334333833373332333433343339333233303636333936343334333433353330363433323339333833323634333433383334363436363339333233343334333436343334363136353330333333373336333
