@@ -377,7 +377,7 @@
 
 <!-- Enhanced Social Media Links with Hover Effects -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/jhamit-kumar-2b8860315/" target="_blank">
+  <a href="[https://www.linkedin.com/in/jhamit-kumar-2b8860315/](https://www.linkedin.com/in/jhamit-kumar-2b8860315/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" height="35"/>
   </a>
   <a href="https://twitter.com/your-twitter" target="_blank">
