@@ -1,117 +1,91 @@
 <!-- ========================= -->
-<!-- HERO / ATMOSPHERE -->
+<!-- CINEMATIC HERO (VIDEO-LIKE) -->
 <!-- ========================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,20&text=Vicky&fontSize=92&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Clean%20Interfaces%20%7C%20Scaling%20Ideas%20Into%20Reality&descAlignY=62" width="100%" />
+<p align="center">
+  <img src="YOUR_GIF_URL_HERE" width="100%" />
+</p>
+
+<h1 align="center">
+  Vicky
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2800&pause=1000&center=true&vCenter=true&width=820&color=7DD3FC&lines=Next.js+Engineer;UI%2FUX+Perfectionist;Web3+Explorer;Performance+Obsessed;Code+with+Intent" />
+  <b>Engineering Interfaces • Scaling Ideas • Obsessing Over UX</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vicky166&style=flat&color=7DD3FC"/>
-  <img src="https://img.shields.io/github/followers/vicky166?style=flat&color=7DD3FC"/>
-  <img src="https://img.shields.io/github/stars/vicky166?style=flat&color=7DD3FC"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=900&center=true&vCenter=true&width=900&color=00E5FF&lines=Next.js+Engineer;UI%2FUX+Focused;Web3+Explorer;Performance+Driven;Build+Once%2C+Scale+Forever" />
 </p>
 
-<br/>
+---
 
-<!-- ========================= -->
-<!-- INTRO -->
-<!-- ========================= -->
+## ⚡ WHO I AM
 
-<h2 align="center">⚡ Who Am I</h2>
+I don’t build **pages**.  
+I build **systems**.
 
-<p align="center">
-I don’t just build websites — I engineer <b>experiences</b>.<br/>
-Focused on <b>clarity, speed, and scale</b>, I work with modern stacks to ship products that feel effortless.
-</p>
+Clean architecture.  
+Sharp UI decisions.  
+Zero tolerance for sloppy UX.
 
-<p align="center">
-Minimal UI. Maximum impact.<br/>
-Clean code. No shortcuts.
-</p>
+If it doesn’t feel smooth, it doesn’t ship.
 
-<br/>
+---
 
-<!-- ========================= -->
-<!-- TECH STACK -->
-<!-- ========================= -->
+## 🧩 TECH STACK
 
-<h2 align="center">🧩 Tech Arsenal</h2>
+### Languages
+<img src="https://skillicons.dev/icons?i=ts,js,html,css" />
 
-<p align="center"><b>Languages</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
-</p>
+### Frontend
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
 
-<p align="center"><b>Frontend</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
-</p>
+### UI / Motion
+- Framer Motion  
+- shadcn/ui  
+- Radix UI  
+- Micro-interactions obsessed
 
-<p align="center"><b>Animation & UI</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Framer%20Motion-black?style=flat"/>
-  <img src="https://img.shields.io/badge/shadcn/ui-black?style=flat"/>
-</p>
+### Web3
+- Ethereum
+- Ethers.js
+- WAGMI
+- Wallet integrations
 
-<p align="center"><b>Web3</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ethereum" />
-  <img src="https://img.shields.io/badge/WAGMI-black?style=flat"/>
-  <img src="https://img.shields.io/badge/Ethers.js-black?style=flat"/>
-</p>
+---
 
-<br/>
+## 🧠 HOW I THINK
 
-<!-- ========================= -->
-<!-- MINDSET -->
-<!-- ========================= -->
+- Architecture > shortcuts  
+- UX before features  
+- Performance is a feature  
+- Readability is power  
+- If it’s not scalable, it’s not done  
 
-<h2 align="center">🧠 Engineering Mindset</h2>
+---
+
+## 📈 SIGNAL (NOT FLEX)
 
 <p align="center">
-⚙ Architecture over hacks<br/>
-⚡ Performance before polish<br/>
-🎯 UX that feels natural<br/>
-📦 Scalable patterns only<br/>
-🧪 Production-tested thinking
-</p>
-
-<br/>
-
-<!-- ========================= -->
-<!-- STATS -->
-<!-- ========================= -->
-
-<h2 align="center">📈 Activity</h2>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vicky166&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vicky166&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=vicky166&theme=tokyonight&hide_border=true"/>
 </p>
 
-<br/>
+---
 
-<!-- ========================= -->
-<!-- QUOTE -->
-<!-- ========================= -->
+## 🧠 CODE PHILOSOPHY
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+  <i>“Write code like someone else will maintain it at 3 AM.”</i>
 </p>
 
-<br/>
-
-<!-- ========================= -->
-<!-- FOOTER -->
-<!-- ========================= -->
+---
 
 <p align="center">
-  <b>Build slow. Think deep. Ship right.</b><br/>
-  <i>— Vicky</i>
+  <b>Minimal UI. Maximum intent.</b><br/>
+  — Vicky
 </p>
