@@ -1,34 +1,35 @@
 <!-- ========================= -->
-<!-- HERO -->
+<!-- HERO / ATMOSPHERE -->
 <!-- ========================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:0f2027,50:203a43,100:2c5364&section=header&text=Vicky&fontColor=ffffff&fontSize=86&fontAlignY=45&desc=Building%20modern%20web%20experiences&descAlignY=68" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,20&text=Vicky&fontSize=92&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Clean%20Interfaces%20%7C%20Scaling%20Ideas%20Into%20Reality&descAlignY=62" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1200&center=true&vCenter=true&width=700&color=58A6FF&lines=Next.js+Developer;Web3+Builder;UI+Performance+Enthusiast;Turning+ideas+into+products" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2800&pause=1000&center=true&vCenter=true&width=820&color=7DD3FC&lines=Next.js+Engineer;UI%2FUX+Perfectionist;Web3+Explorer;Performance+Obsessed;Code+with+Intent" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/vicky166?style=flat&logo=github&color=58A6FF" />
-  <img src="https://img.shields.io/github/followers/vicky166?style=flat&logo=github&color=58A6FF" />
-  <img src="https://komarev.com/ghpvc/?username=vicky166&color=58A6FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=vicky166&style=flat&color=7DD3FC"/>
+  <img src="https://img.shields.io/github/followers/vicky166?style=flat&color=7DD3FC"/>
+  <img src="https://img.shields.io/github/stars/vicky166?style=flat&color=7DD3FC"/>
 </p>
 
 <br/>
 
 <!-- ========================= -->
-<!-- ABOUT -->
+<!-- INTRO -->
 <!-- ========================= -->
 
-<h2 align="center">👋 About</h2>
+<h2 align="center">⚡ Who Am I</h2>
 
 <p align="center">
-I’m a <b>Next.js developer</b> focused on building fast, scalable, and clean user experiences.<br/>
-I enjoy working at the intersection of <b>performance, UI architecture, and Web3</b>.
+I don’t just build websites — I engineer <b>experiences</b>.<br/>
+Focused on <b>clarity, speed, and scale</b>, I work with modern stacks to ship products that feel effortless.
 </p>
 
 <p align="center">
-I care about <b>code quality</b>, <b>developer experience</b>, and shipping things that actually work in production.
+Minimal UI. Maximum impact.<br/>
+Clean code. No shortcuts.
 </p>
 
 <br/>
@@ -37,47 +38,45 @@ I care about <b>code quality</b>, <b>developer experience</b>, and shipping thin
 <!-- TECH STACK -->
 <!-- ========================= -->
 
-<h2 align="center">🛠 Tech Stack</h2>
+<h2 align="center">🧩 Tech Arsenal</h2>
 
-<h3 align="center">Languages</h3>
+<p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
 </p>
 
-<h3 align="center">Frontend</h3>
+<p align="center"><b>Frontend</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat"/>
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
 </p>
 
-<h3 align="center">Web3</h3>
+<p align="center"><b>Animation & UI</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WAGMI-F16822?style=flat"/>
-  <img src="https://img.shields.io/badge/Ethers.js-1C1C1C?style=flat"/>
-  <img src="https://img.shields.io/badge/RainbowKit-F6851B?style=flat"/>
+  <img src="https://img.shields.io/badge/Framer%20Motion-black?style=flat"/>
+  <img src="https://img.shields.io/badge/shadcn/ui-black?style=flat"/>
+</p>
+
+<p align="center"><b>Web3</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ethereum" />
+  <img src="https://img.shields.io/badge/WAGMI-black?style=flat"/>
+  <img src="https://img.shields.io/badge/Ethers.js-black?style=flat"/>
 </p>
 
 <br/>
 
 <!-- ========================= -->
-<!-- PHILOSOPHY -->
+<!-- MINDSET -->
 <!-- ========================= -->
 
-<h2 align="center">🧠 How I Build</h2>
+<h2 align="center">🧠 Engineering Mindset</h2>
 
 <p align="center">
-• Clean component architecture<br/>
-• Performance-first mindset<br/>
-• Scalable folder structures<br/>
-• Thoughtful UX micro-interactions<br/>
-• Production-ready solutions
+⚙ Architecture over hacks<br/>
+⚡ Performance before polish<br/>
+🎯 UX that feels natural<br/>
+📦 Scalable patterns only<br/>
+🧪 Production-tested thinking
 </p>
 
 <br/>
@@ -86,11 +85,24 @@ I care about <b>code quality</b>, <b>developer experience</b>, and shipping thin
 <!-- STATS -->
 <!-- ========================= -->
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📈 Activity</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vicky166&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicky166&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vicky166&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=vicky166&theme=tokyonight&hide_border=true"/>
+</p>
+
+<br/>
+
+<!-- ========================= -->
+<!-- QUOTE -->
+<!-- ========================= -->
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
 <br/>
@@ -100,5 +112,6 @@ I care about <b>code quality</b>, <b>developer experience</b>, and shipping thin
 <!-- ========================= -->
 
 <p align="center">
-  <i>Always learning. Always building.</i>
+  <b>Build slow. Think deep. Ship right.</b><br/>
+  <i>— Vicky</i>
 </p>
