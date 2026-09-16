@@ -1,7 +1,12 @@
-<!-- ========================================================= -->
-<!--  VICKY166 — GitHub Profile README                         -->
-<!--  Paste into: github.com/vicky166/vicky166/README.md       -->
-<!-- ========================================================= -->
+<!--
+═══════════════════════════════════════════════════════════════
+ONE FILE → paste this entire file into:
+  https://github.com/vicky166/vicky166/README.md
+
+Then (optional) for snake animation:
+  create .github/workflows/snake.yml  (see bottom of this file)
+═══════════════════════════════════════════════════════════════
+-->
 
 <a id="top"></a>
 
@@ -121,7 +126,6 @@ Comfortable owning UI architecture end-to-end: components, state, integrations, 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vicky166&bg_color=0d1117&color=00ffff&line=ff00ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </p>
 
-<!-- After enabling snake.yml workflow, this auto-updates daily -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vicky166/vicky166/output/github-contribution-grid-snake-dark.svg"/>
@@ -136,7 +140,6 @@ Comfortable owning UI architecture end-to-end: components, state, integrations, 
 
 <p align="center">
   <a href="https://github.com/vicky166"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FFFF"/></a>
-  <!-- Replace with your real URLs -->
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FFFF"/></a>
   <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -155,3 +158,40 @@ Comfortable owning UI architecture end-to-end: components, state, integrations, 
 <p align="center">
   <a href="#top"><img src="https://img.shields.io/badge/%E2%86%91%20Back%20to%20top-0D1117?style=flat-square&labelColor=00FFFF&color=0D1117" alt="Back to top"/></a>
 </p>
+
+<!--
+═══════════════════════════════════════════════════════════════
+OPTIONAL SNAKE ANIMATION (sirf ek baar setup)
+
+1. Same repo mein ye file banao:
+   .github/workflows/snake.yml
+
+2. Usme ye paste karo (bina is comment ke):
+
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+3. Actions → Generate Snake → Run workflow
+═══════════════════════════════════════════════════════════════
+-->
