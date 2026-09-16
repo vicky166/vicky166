@@ -1,197 +1,300 @@
-<!--
-═══════════════════════════════════════════════════════════════
-ONE FILE → paste this entire file into:
-  https://github.com/vicky166/vicky166/README.md
+<div align="center">
 
-Then (optional) for snake animation:
-  create .github/workflows/snake.yml  (see bottom of this file)
-═══════════════════════════════════════════════════════════════
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050014,25:12002b,50:24004d,75:09001f,100:000000&section=header&text=VICKY&fontSize=95&fontColor=00FFFF&animation=twinkling&fontAlignY=38&desc=NEXT.JS%20%E2%80%A2%20WEB3%20%E2%80%A2%20FULL%20STACK%20BUILDER&descAlignY=62&descSize=18&descColor=FFFFFF" width="100%"/>
 
-<a id="top"></a>
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=0,2,5,14,30&section=header&text=Vicky&fontColor=00FFFF&fontSize=88&animation=twinkling&fontAlignY=36&desc=Next.js%20%E2%80%A2%20Web3%20%E2%80%A2%20Product%20UI&descAlignY=58&descSize=20&descColor=C8C8C8" width="100%"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&width=850&height=55&lines=I+BUILD+THINGS+THAT+FEEL+ALIVE.;NEXT.JS+%2B+TYPESCRIPT+%2B+WEB3;DESIGN.+CODE.+SHIP.+REPEAT.;TURNING+IDEAS+INTO+REAL+PRODUCTS.;WELCOME+TO+MY+DIGITAL+LAB." alt="Typing Animation"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=780&height=50&color=00FFFF&background=00000000&lines=Building+clean+UI+%26+on-chain+experiences;Next.js+%2B+TypeScript+%2B+Ethereum;Shipping+products+that+feel+fast" alt="Typing SVG"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Frontend%20%7C%20Web3-0D1117?style=for-the-badge&labelColor=00FFFF&color=0D1117"/>
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-0D1117?style=for-the-badge&labelColor=FF00FF&color=0D1117"/>
-  <img src="https://komarev.com/ghpvc/?username=vicky166&style=for-the-badge&color=00FFFF&labelColor=0D1117&label=Profile+Views"/>
-</p>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-00FFFF?style=for-the-badge&labelColor=050014&color=050014"/>
+<img src="https://img.shields.io/badge/FOCUS-NEXT.JS%20%2B%20WEB3-FF00FF?style=for-the-badge&labelColor=050014&color=050014"/>
+<img src="https://img.shields.io/badge/MODE-SHIP%20FAST-7C3AED?style=for-the-badge&labelColor=050014&color=050014"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=vicky166&style=for-the-badge&color=00ffff&labelColor=050014&label=VISITORS"/>
+
+</div>
 
 ---
 
-## About Me
+<div align="center">
+
+## ⚡ `WHO_AM_I`
+
+</div>
 
 ```ts
 const vicky = {
   role: "Next.js Developer & Web3 Builder",
-  focus: ["Product UI", "dApps", "Design Systems"],
-  stack: ["TypeScript", "React", "Next.js", "Solidity", "wagmi"],
-  mindset: "Ship clean interfaces. Push technical limits.",
+
+  currentlyBuilding: [
+    "Product Interfaces",
+    "SaaS Platforms",
+    "Web3 Applications",
+    "On-chain Experiences"
+  ],
+
+  stack: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
+    web3: ["Solidity", "Ethereum", "wagmi", "viem", "Ethers.js"],
+    tools: ["Git", "GitHub", "Figma", "Vercel", "Supabase"]
+  },
+
+  philosophy: "Make it clean. Make it fast. Make it memorable.",
+
+  status: "Always building something 🚀"
 };
 ```
 
-I build fast, polished web products — from SaaS dashboards to Ethereum dApps.  
-Comfortable owning UI architecture end-to-end: components, state, integrations, and on-chain UX.
+<div align="center">
+
+### `████████████████████████████████████████████`
+
+**Frontend Engineer • Web3 Builder • Product UI**
+
+`████████████████████████████████████████████`
+
+</div>
 
 ---
 
-## Featured Projects
+<div align="center">
 
-| Project | Stack | Live |
-| :--- | :--- | :--- |
-| **[Nexus](https://github.com/vicky166/Nexus)** — modern product UI | TypeScript · Next.js | [Demo](https://nexus-pi-teal.vercel.app) |
-| **[ShiftSaaS](https://github.com/vicky166/Shiftsaas)** — SaaS platform | TypeScript · Next.js | [Demo](https://shiftsaas.vercel.app) |
-| **[InventioSoft](https://github.com/vicky166/InventioSoft)** — business web app | TypeScript · Next.js | [Demo](https://inventio-soft.vercel.app) |
-| **[Clinic](https://github.com/vicky166/clinic)** — healthcare UI | TypeScript · Next.js | [Demo](https://clinic-smoky.vercel.app) |
-| **[Irish Cafe](https://github.com/vicky166/irishcafe)** — brand site | TypeScript · Next.js | [Demo](https://irishcafe.vercel.app) |
-| **[Services](https://github.com/vicky166/services)** — services landing | TypeScript · Next.js | [Demo](https://services-orcin.vercel.app) |
+## 🧬 `TECH DNA`
 
-### Web3 Builds
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark" />
 
-| Project | Focus |
-| :--- | :--- |
-| **[DAO](https://github.com/vicky166/Dao)** | Governance / DAO flows |
-| **[Staking](https://github.com/vicky166/Staking)** | Token staking UX |
-| **[Swap](https://github.com/vicky166/Swap)** | Token swap interface |
-| **[NFT Minting](https://github.com/vicky166/Nft-minting)** | NFT mint experience |
-| **[Vesting Token](https://github.com/vicky166/vesting-Token)** | Token vesting logic |
-| **[Token Pro](https://github.com/vicky166/token-pro)** | Token tooling |
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicky166&repo=Nexus&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=E6E6E6"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicky166&repo=Shiftsaas&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=E6E6E6"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicky166&repo=Dao&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=E6E6E6"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicky166&repo=Staking&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=E6E6E6"/>
-</p>
+<img src="https://skillicons.dev/icons?i=solidity,ethereum,nodejs,supabase,git,github,figma,vercel&theme=dark" />
+
+</div>
 
 ---
 
-## Tech Stack
+<div align="center">
 
-### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,solidity&theme=dark" alt="Languages"/>
-</p>
+## 🌌 `FEATURED BUILDS`
 
-### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,framer,vite&theme=dark" alt="Frontend"/>
-</p>
+</div>
 
-### Web3
-<p align="center">
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/wagmi-F16822?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/viem-000000?style=for-the-badge&logoColor=00FFFF"/>
-  <img src="https://img.shields.io/badge/Ethers.js-1C1C1C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RainbowKit-F6851B?style=for-the-badge"/>
-</p>
+<table>
+<tr>
+<td width="50%">
 
-### Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,nodejs,vercel,supabase&theme=dark" alt="Tools"/>
-</p>
+### ⚡ Nexus
+
+**Modern product interface**
+
+`Next.js` `TypeScript`
+
+<a href="https://github.com/vicky166/Nexus">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-00FFFF?style=for-the-badge&labelColor=050014&color=050014"/>
+</a>
+
+<a href="https://nexus-pi-teal.vercel.app">
+<img src="https://img.shields.io/badge/LIVE_DEMO-FF00FF?style=for-the-badge&labelColor=050014&color=050014"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🌀 ShiftSaaS
+
+**SaaS platform**
+
+`Next.js` `TypeScript`
+
+<a href="https://github.com/vicky166/Shiftsaas">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-00FFFF?style=for-the-badge&labelColor=050014&color=050014"/>
+</a>
+
+<a href="https://shiftsaas.vercel.app">
+<img src="https://img.shields.io/badge/LIVE_DEMO-FF00FF?style=for-the-badge&labelColor=050014&color=050014"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 InventioSoft
+
+**Business web application**
+
+`Next.js` `TypeScript`
+
+<a href="https://github.com/vicky166/InventioSoft">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-00FFFF?style=for-the-badge&labelColor=050014&color=050014"/>
+</a>
+
+<a href="https://inventio-soft.vercel.app">
+<img src="https://img.shields.io/badge/LIVE_DEMO-FF00FF?style=for-the-badge&labelColor=050014&color=050014"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### ☕ Irish Cafe
+
+**Brand-focused web experience**
+
+`Next.js` `TypeScript`
+
+<a href="https://github.com/vicky166/irishcafe">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-00FFFF?style=for-the-badge&labelColor=050014&color=050014"/>
+</a>
+
+<a href="https://irishcafe.vercel.app">
+<img src="https://img.shields.io/badge/LIVE_DEMO-FF00FF?style=for-the-badge&labelColor=050014&color=050014"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vicky166&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=E6E6E6&ring_color=00FFFF"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicky166&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=E6E6E6"/>
-</p>
+## ⛓️ `WEB3 LAB`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vicky166&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF" alt="GitHub Streak"/>
-</p>
+<img src="https://img.shields.io/badge/DAO-GOVERNANCE-00FFFF?style=for-the-badge&labelColor=050014&color=050014"/>
+<img src="https://img.shields.io/badge/STAKING-DEFI-FF00FF?style=for-the-badge&labelColor=050014&color=050014"/>
+<img src="https://img.shields.io/badge/SWAP-TOKEN%20EXCHANGE-7C3AED?style=for-the-badge&labelColor=050014&color=050014"/>
+<img src="https://img.shields.io/badge/NFT-MINTING-00FFFF?style=for-the-badge&labelColor=050014&color=050014"/>
+<img src="https://img.shields.io/badge/VESTING-TOKEN%20LOGIC-FF00FF?style=for-the-badge&labelColor=050014&color=050014"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vicky166&theme=radical&no-frame=true&column=6&margin-w=10&margin-h=10" alt="Trophies"/>
-</p>
+</div>
 
----
+<br/>
 
-## Contribution Graph
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vicky166&bg_color=0d1117&color=00ffff&line=ff00ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-</p>
+|                           🔮 Project                           | ⚙️ Focus         |
+| :------------------------------------------------------------: | :--------------- |
+|           **[DAO](https://github.com/vicky166/Dao)**           | Governance / DAO |
+|       **[Staking](https://github.com/vicky166/Staking)**       | Token Staking    |
+|          **[Swap](https://github.com/vicky166/Swap)**          | Token Swap       |
+|   **[NFT Minting](https://github.com/vicky166/Nft-minting)**   | NFT Experience   |
+| **[Vesting Token](https://github.com/vicky166/vesting-Token)** | Token Vesting    |
+|     **[Token Pro](https://github.com/vicky166/token-pro)**     | Token Tooling    |
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vicky166/vicky166/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vicky166/vicky166/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/vicky166/vicky166/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</p>
+</div>
 
 ---
 
-## Connect
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/vicky166"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FFFF"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FFFF"/></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+## 📊 `SYSTEM TELEMETRY`
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vicky166&show_icons=true&hide_border=true&bg_color=050014&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&ring_color=00FFFF"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicky166&layout=compact&hide_border=true&bg_color=050014&title_color=FF00FF&text_color=FFFFFF"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vicky166&hide_border=true&background=050014&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=0,2,5,14,30&section=footer" width="100%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1200&center=true&vCenter=true&width=520&height=28&color=00FFFF&background=00000000&lines=Thanks+for+visiting+%E2%80%94+let's+build+something+great" alt="Footer"/>
-</p>
+## 🏆 `ACHIEVEMENTS`
 
-<p align="center">
-  <a href="#top"><img src="https://img.shields.io/badge/%E2%86%91%20Back%20to%20top-0D1117?style=flat-square&labelColor=00FFFF&color=0D1117" alt="Back to top"/></a>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=vicky166&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=12&margin-h=12" />
 
-<!--
-═══════════════════════════════════════════════════════════════
-OPTIONAL SNAKE ANIMATION (sirf ek baar setup)
+</div>
 
-1. Same repo mein ye file banao:
-   .github/workflows/snake.yml
+---
 
-2. Usme ye paste karo (bina is comment ke):
+<div align="center">
 
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+## 🐍 `CONTRIBUTION MATRIX`
 
-3. Actions → Generate Snake → Run workflow
-═══════════════════════════════════════════════════════════════
--->
+<img src="https://raw.githubusercontent.com/vicky166/vicky166/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 `ACTIVITY SIGNAL`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vicky166&bg_color=050014&color=00ffff&line=ff00ff&point=ffffff&area=true&hide_border=true&custom_title=Vicky's%20Contribution%20Matrix" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💻 `CURRENT_MODE`
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   > INITIALIZING VICKY_OS...                       │
+│                                                     │
+│   [████████████████████████████████████████] 100%  │
+│                                                     │
+│   ✓ NEXT.JS                                        │
+│   ✓ TYPESCRIPT                                     │
+│   ✓ REACT                                          │
+│   ✓ WEB3                                           │
+│   ✓ PRODUCT UI                                     │
+│   ✓ SHIPPING                                       │
+│                                                     │
+│   SYSTEM STATUS: ONLINE                            │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 `LET'S CONNECT`
+
+<a href="https://github.com/vicky166">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FFFF"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF"/>
+</a>
+
+<a href="https://x.com/YOUR_HANDLE">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&height=40&lines=BUILD+%E2%86%92+BREAK+%E2%86%92+LEARN+%E2%86%92+REBUILD;CODE+IS+MY+WAY+OF+THINKING.;SEE+YOU+ON+THE+OTHER+SIDE+%F0%9F%9A%80" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,30:09001f,55:24004d,80:12002b,100:050014&section=footer&animation=twinkling" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<a href="#top">⬆️ BACK TO TOP</a>
+
+</div>
